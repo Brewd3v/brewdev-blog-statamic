@@ -16,7 +16,7 @@
   publish = "./storage/app/static"
 
   # Default build command.
-  command = "composer install && composer build"
+  command = "composer build"
 
 [context.production.environment]
   #PHP_VERSION="8.0"
