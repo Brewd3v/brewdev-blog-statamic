@@ -16,7 +16,7 @@
   publish = "./storage/app/static"
 
   # Default build command.
-  command = "npm install && npm run prod && php please ssg:generate"
+  command = "php please ssg:generate"
 
 [context.production.environment]
   #PHP_VERSION="8.0"
