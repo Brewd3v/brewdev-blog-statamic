@@ -79,9 +79,7 @@
         ],
         "build-app": [
             "npm run production",
-            "composer update",
-            "composer install",
-            "sudo apt install php-bcmath",
+            "composer install --ignore-platform-req=ext-bcmath",
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\"",
             "@php artisan key:generate",
             "@php please ssg:generate"
