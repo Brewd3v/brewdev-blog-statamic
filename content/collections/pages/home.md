@@ -1,8 +1,10 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: home
-subtitle: I see pride. I see power.
+title: Home
+template: home
+subtitle: 'I''m a software developer who loves to brew beer'
+updated_by: 8a0058a8-61b4-4972-94ce-4bb74c203b4b
+updated_at: 1670970739
 ---
-I see a bad-ass mother who don't take no crap off of nobody.
+Very much an experiment.

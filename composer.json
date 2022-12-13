@@ -19,6 +19,7 @@
         "laravel/framework": "^9.0",
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
+        "orhanerday/open-ai": "^3.2",
         "statamic/cms": "3.3.*",
         "statamic/ssg": "^1.2"
     },
